@@ -1,1 +1,1 @@
-# rogramaci-n-de-juegos-de-scratch
+# Programación de juegos de scratch
